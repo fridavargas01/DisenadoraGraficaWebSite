@@ -11,7 +11,7 @@
 
 ## Uso
 
-Para visitar la pagina web da clic [aquí.](https://joshvargasm3.github.io/DisenadoraGraficaWebsite/)
+Para visitar la pagina web da clic [aquí.](https://fridavargas01.github.io/DisenadoraGraficaWebSite/)
 
 ## Tecnologias utilizadas
 <p align="center" dir="auto">
