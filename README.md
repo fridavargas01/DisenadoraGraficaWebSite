@@ -1,4 +1,4 @@
-**# DisenadoraGraficaWebSite.github.io**# DiseñadoraGraficaWebsite
+# DiseñadoraGraficaWebsite
 
 <p align="center" dir="auto">
 <img align="center" src="https://github.com/JoshVargasM3/PORTAFOLIO/blob/Main/GifImages/FridaVargasMarketingdigitalWEBPAGE.png" width="100%">
